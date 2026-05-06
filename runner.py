@@ -41,5 +41,3 @@ def do_wave():
 
     
 
-
-# challenge: use input from the text files, solve those mazes
