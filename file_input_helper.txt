@@ -1,0 +1,12 @@
+
+'''
+    you need a 2D list, but there are no spaces to 'split' at
+    here's how:
+        temp_row = []
+        get a line
+        iterate through that line
+            append each item to temp_row
+        append temp_row to your data
+
+'''
+
